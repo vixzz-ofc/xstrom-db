@@ -7,5 +7,14 @@
     "role": "OWNER",
     "createdAt": "2026-09-10T00:00:00.000Z",
     "createdBy": "SYSTEM"
+  },
+  {
+    "id": "mtvgw7cnh534",
+    "name": "SASUKE",
+    "username": "sasuke",
+    "password": "h_nz1smc",
+    "role": "CREATOR",
+    "createdAt": "2026-09-10T11:52:05.687Z",
+    "createdBy": "vixzz"
   }
 ]
