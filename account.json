@@ -16,5 +16,14 @@
     "role": "CREATOR",
     "createdAt": "2026-09-12T07:07:53.870Z",
     "createdBy": "sasuke"
+  },
+  {
+    "id": "mty5ehal1ci4",
+    "name": "Reseller",
+    "username": "fyn",
+    "password": "h_uabq2z",
+    "role": "RESELLER",
+    "createdAt": "2026-09-12T08:53:41.517Z",
+    "createdBy": "sasuke"
   }
 ]
