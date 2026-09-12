@@ -43,5 +43,14 @@
     "role": "RESELLER",
     "createdAt": "2026-09-12T10:02:52.730Z",
     "createdBy": "sasuke"
+  },
+  {
+    "id": "mty88tr95vkt",
+    "name": "Rafatar",
+    "username": "rafatar",
+    "password": "h_olvx0r",
+    "role": "RESELLER",
+    "createdAt": "2026-09-12T10:13:16.581Z",
+    "createdBy": "sasuke"
   }
 ]
