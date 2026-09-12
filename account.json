@@ -52,5 +52,14 @@
     "role": "RESELLER",
     "createdAt": "2026-09-12T10:13:16.581Z",
     "createdBy": "sasuke"
+  },
+  {
+    "id": "mty9vs5ikd9w",
+    "name": "Dit owner",
+    "username": "dittaja",
+    "password": "h_nzmv6r",
+    "role": "CREATOR",
+    "createdAt": "2026-09-12T10:59:07.206Z",
+    "createdBy": "sasuke"
   }
 ]
