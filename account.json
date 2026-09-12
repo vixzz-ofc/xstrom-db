@@ -7,5 +7,14 @@
     "role": "OWNER",
     "createdAt": "2026-09-10T00:00:00.000Z",
     "createdBy": "SYSTEM"
+  },
+  {
+    "id": "mty1mff2z3cg",
+    "name": "Akbar",
+    "username": "barr",
+    "password": "h_nzmv6r",
+    "role": "CREATOR",
+    "createdAt": "2026-09-12T07:07:53.870Z",
+    "createdBy": "sasuke"
   }
 ]
