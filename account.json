@@ -71,5 +71,14 @@
     "role": "CREATOR",
     "createdAt": "2026-09-12T12:25:58.741Z",
     "createdBy": "sasuke"
+  },
+  {
+    "id": "mtz1vlaz414h",
+    "name": "Moderator",
+    "username": "amou",
+    "password": "h_nzmv6r",
+    "role": "MODERATOR",
+    "createdAt": "2026-09-13T00:02:47.579Z",
+    "createdBy": "sasuke"
   }
 ]
