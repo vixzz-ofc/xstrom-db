@@ -89,5 +89,14 @@
     "role": "RESELLER",
     "createdAt": "2026-09-13T03:25:06.869Z",
     "createdBy": "sasuke"
+  },
+  {
+    "id": "mtzh6ikq4q1o",
+    "name": "King baut mods",
+    "username": "kingbaut",
+    "password": "h_ru6anw",
+    "role": "MODERATOR",
+    "createdAt": "2026-09-13T07:11:11.499Z",
+    "createdBy": "sasuke"
   }
 ]
