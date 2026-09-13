@@ -116,5 +116,14 @@
     "role": "CREATOR",
     "createdAt": "2026-09-13T08:07:20.253Z",
     "createdBy": "sasuke"
+  },
+  {
+    "id": "mtzu0knkuoun",
+    "name": "jirzxx",
+    "username": "jirzxx",
+    "password": "h_pesbui",
+    "role": "RESELLER",
+    "createdAt": "2026-09-13T13:10:29.264Z",
+    "createdBy": "barr"
   }
 ]
