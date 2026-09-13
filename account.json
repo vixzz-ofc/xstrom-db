@@ -98,5 +98,14 @@
     "role": "MODERATOR",
     "createdAt": "2026-09-13T07:11:11.499Z",
     "createdBy": "sasuke"
+  },
+  {
+    "id": "mtzh7phvzjhc",
+    "name": "Resellerr",
+    "username": "rapzy",
+    "password": "h_g7ps8q",
+    "role": "RESELLER",
+    "createdAt": "2026-09-13T07:12:07.123Z",
+    "createdBy": "sasuke"
   }
 ]
