@@ -107,5 +107,14 @@
     "role": "RESELLER",
     "createdAt": "2026-09-13T07:12:07.123Z",
     "createdBy": "sasuke"
+  },
+  {
+    "id": "mtzj6px9no7v",
+    "name": "Tante sasuke",
+    "username": "kimmxc",
+    "password": "h_vud54m",
+    "role": "CREATOR",
+    "createdAt": "2026-09-13T08:07:20.253Z",
+    "createdBy": "sasuke"
   }
 ]
